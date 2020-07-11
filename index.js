@@ -4,7 +4,7 @@ const app = express();
 //const mongoose = require("mongoose");
 //const router = express.Router;
 
-// mongoose.connect('mongodb+srv://preetanurag5:preet5@preet-e85kb.mongodb.net/test?retryWrites=true', { useNewUrlParser: true })
+// mongoose.connect('mongodb+srv://preetanurag5:******@preet-e85kb.mongodb.net/test?retryWrites=true', { useNewUrlParser: true })
 //     .then(() => 'You are now connected to Mongo!')
 //     .catch(err => console.error('Something went wrong', err))
  
